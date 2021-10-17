@@ -1,0 +1,17 @@
+{
+    "configurations": [
+        {
+            "name": "Linux",
+            "includePath": [
+                "${default}",
+                "${workspaceFolder}",
+                "/opt/httpProject/Base"
+            ],
+            "compilerPath": "/usr/bin/clang",
+            "cStandard": "gnu11",
+            "cppStandard": "c++11",
+            "intelliSenseMode": "linux-clang-x64"
+        }
+    ],
+    "version": 4
+}
